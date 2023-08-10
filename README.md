@@ -11,4 +11,4 @@ All My Js based practised Projects are here.
 
 **3.)DrumSet**:- A Drum Set with all instrument sounds functioning.
 
-**Link**:-https://nb-drum.netlify.app/
+**Link**:-https://nishant-bindhani.github.io/Drumkit/
